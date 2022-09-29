@@ -69,31 +69,6 @@ exports.inputdata = async function(req, res) {
                     "order_id": "SO210102-003",
                     "sku_id": "P91162116",
                     "quantity": 300
-                  },
-                  {
-                    "order_id": "SO210102-004",
-                    "sku_id": "P91162116",
-                    "quantity": 700
-                  },
-                  {
-                    "order_id": "SO210103-001",
-                    "sku_id": "P91162940",
-                    "quantity": 100
-                  },
-                  {
-                    "order_id": "SO210103-002",
-                    "sku_id": "P91162940",
-                    "quantity": 300
-                  },
-                  {
-                    "order_id": "SO210103-003",
-                    "sku_id": "P91162940",
-                    "quantity": 300
-                  },
-                  {
-                    "order_id": "SO210103-004",
-                    "sku_id": "P91162940",
-                    "quantity": 400
                   }
                 ]
               }
