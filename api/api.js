@@ -72643,223 +72643,223 @@ exports.inputdata = async function(req, res) {
             ],
             "Inventories": [
             {
-            "BatchNumber": "IB1/310822/238",
+            "BatchNumber": "BN1/310822/238",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB1/310822/239",
+            "BatchNumber": "BN1/310822/239",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB1/310822/240",
+            "BatchNumber": "BN1/310822/240",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB1/310822/241",
+            "BatchNumber": "BN1/310822/241",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB1/310822/242",
+            "BatchNumber": "BN1/310822/242",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB1/310822/243",
+            "BatchNumber": "BN1/310822/243",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB1/310822/244",
+            "BatchNumber": "BN1/310822/244",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB1/310822/245",
+            "BatchNumber": "BN1/310822/245",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB1/310822/246",
+            "BatchNumber": "BN1/310822/246",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB1/310822/247",
+            "BatchNumber": "BN1/310822/247",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB1/310822/248",
+            "BatchNumber": "BN1/310822/248",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB1/310822/249",
+            "BatchNumber": "BN1/310822/249",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB1/310822/250",
+            "BatchNumber": "BN1/310822/250",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB1/310822/251",
+            "BatchNumber": "BN1/310822/251",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB1/310822/252",
+            "BatchNumber": "BN1/310822/252",
             "SKU": "P91162940",
             "InventoryLevel": 12,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/357",
+            "BatchNumber": "BN2/310822/357",
             "SKU": "P91162116",
             "InventoryLevel": 4,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/358",
+            "BatchNumber": "BN2/310822/358",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/359",
+            "BatchNumber": "BN2/310822/359",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/360",
+            "BatchNumber": "BN2/310822/360",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/361",
+            "BatchNumber": "BN2/310822/361",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/362",
+            "BatchNumber": "BN2/310822/362",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/363",
+            "BatchNumber": "BN2/310822/363",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/364",
+            "BatchNumber": "BN2/310822/364",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/365",
+            "BatchNumber": "BN2/310822/365",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/366",
+            "BatchNumber": "BN2/310822/366",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/367",
+            "BatchNumber": "BN2/310822/367",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/368",
+            "BatchNumber": "BN2/310822/368",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/369",
+            "BatchNumber": "BN2/310822/369",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/370",
+            "BatchNumber": "BN2/310822/370",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/371",
+            "BatchNumber": "BN2/310822/371",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/372",
+            "BatchNumber": "BN2/310822/372",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/373",
+            "BatchNumber": "BN2/310822/373",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/374",
+            "BatchNumber": "BN2/310822/374",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/375",
+            "BatchNumber": "BN2/310822/375",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/376",
+            "BatchNumber": "BN2/310822/376",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/377",
+            "BatchNumber": "BN2/310822/377",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
             },
             {
-            "BatchNumber": "IB2/310822/378",
+            "BatchNumber": "BN2/310822/378",
             "SKU": "P91162116",
             "InventoryLevel": 6,
             "InventoryTimestamp": "2022-09-02T06:00:00.000Z"
